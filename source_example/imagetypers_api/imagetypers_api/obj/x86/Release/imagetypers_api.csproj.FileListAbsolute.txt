@@ -1,0 +1,4 @@
+c:\Users\root\Documents\Visual Studio 2010\Projects\imagetypers_api\imagetypers_api\bin\Release\program.exe
+c:\Users\root\Documents\Visual Studio 2010\Projects\imagetypers_api\imagetypers_api\bin\Release\program.pdb
+c:\Users\root\Documents\Visual Studio 2010\Projects\imagetypers_api\imagetypers_api\obj\x86\Release\program.exe
+c:\Users\root\Documents\Visual Studio 2010\Projects\imagetypers_api\imagetypers_api\obj\x86\Release\program.pdb
