@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imagetypers_api", "imagetypers_api\imagetypers_api.csproj", "{8BE2DE1E-93E8-4F8E-8D23-BB76B15DD09B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BE2DE1E-93E8-4F8E-8D23-BB76B15DD09B}.Debug|x86.ActiveCfg = Debug|x86
+		{8BE2DE1E-93E8-4F8E-8D23-BB76B15DD09B}.Debug|x86.Build.0 = Debug|x86
+		{8BE2DE1E-93E8-4F8E-8D23-BB76B15DD09B}.Release|x86.ActiveCfg = Release|x86
+		{8BE2DE1E-93E8-4F8E-8D23-BB76B15DD09B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
