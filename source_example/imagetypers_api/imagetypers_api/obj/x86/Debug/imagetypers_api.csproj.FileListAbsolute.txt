@@ -1,0 +1,11 @@
+c:\Users\root\Documents\Visual Studio 2010\Projects\imagetypers_api\imagetypers_api\bin\Debug\program.exe
+c:\Users\root\Documents\Visual Studio 2010\Projects\imagetypers_api\imagetypers_api\bin\Debug\program.pdb
+c:\Users\root\Documents\Visual Studio 2010\Projects\imagetypers_api\imagetypers_api\obj\x86\Debug\program.exe
+c:\Users\root\Documents\Visual Studio 2010\Projects\imagetypers_api\imagetypers_api\obj\x86\Debug\program.pdb
+C:\Users\root\Documents\Visual Studio 2010\Projects\imagetypers_api\imagetypers_api\obj\x86\Debug\imagetypers_api.csprojResolveAssemblyReference.cache
+C:\Users\me\Desktop\imagetypers_api\imagetypers_api\obj\x86\Debug\program.exe
+C:\Users\me\Desktop\imagetypers_api\imagetypers_api\obj\x86\Debug\program.pdb
+C:\Users\me\Desktop\imagetypers_api\imagetypers_api\bin\Debug\program.exe.config
+C:\Users\me\Desktop\imagetypers_api\imagetypers_api\bin\Debug\program.exe
+C:\Users\me\Desktop\imagetypers_api\imagetypers_api\bin\Debug\program.pdb
+C:\Users\me\Desktop\imagetypers_api\imagetypers_api\obj\x86\Debug\imagetypers_api.csprojResolveAssemblyReference.cache
